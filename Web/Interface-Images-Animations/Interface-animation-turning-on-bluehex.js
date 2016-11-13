@@ -1316,11 +1316,11 @@ p.nominalBounds = new cjs.Rectangle(0,0,545.8,264.1);
 	// REFRESH
 	this.button_2 = new lib.Click();
 	this.button_2.parent = this;
-	this.button_2.setTransform(389.2,171.4,1,1,0,0,0,272.9,132.1);
+	this.button_2.setTransform(391.1,-217.1,1,1,0,0,0,272.9,132.1);
 	this.button_2._off = true;
 	new cjs.ButtonHelper(this.button_2, 0, 1, 1);
 
-	this.timeline.addTween(cjs.Tween.get(this.button_2).wait(259).to({_off:false},0).wait(2));
+	this.timeline.addTween(cjs.Tween.get(this.button_2).wait(249).to({_off:false},0).wait(1).to({regY:133.1,y:-179.5},0).wait(1).to({y:-142.9},0).wait(1).to({y:-106.4},0).wait(1).to({y:-69.7},0).wait(1).to({y:-33.1},0).wait(1).to({y:3.4},0).wait(1).to({y:40},0).wait(1).to({y:76.7},0).wait(1).to({y:113.3},0).wait(1).to({y:149.8},0).wait(1).to({y:186.4},0).wait(1));
 
 	// Mouse
 	this.instance_1 = new lib.Symbol2();
