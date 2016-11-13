@@ -10,7 +10,7 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/Interface_animation_turning_on_bluehex_atlas_.png?1479058983282", id:"Interface_animation_turning_on_bluehex_atlas_"}
+		{src:"images/Interface_animation_turning_on_bluehex_atlas_.png?1479067088751", id:"Interface_animation_turning_on_bluehex_atlas_"}
 	]
 };
 
