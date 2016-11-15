@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<widget xmlns="http://openajax.org/metadata" spec="1.0" name="BLUEHEX-ANIMATION" version="1">
+
+<description type="text/html"><![CDATA[Widget Exported from Flash Professional]]></description>
+
+<category name="Flash Animation"/>
+<remarks>Compatible with: InDesign CC, Dreamweaver CC, Muse</remarks>
+<icon src="PosterImg_460.png" width="500" height="500"/>
+<require type="other" src="BLUEHEX-ANIMATION.html"/>
+<require type="javascript" src="BLUEHEX-ANIMATION.js"/>
+<content></content>
+
+<properties name="Properties">
+<property name="default-width" defaultValue="500" hidden="true"/>
+<property name="default-height" defaultValue="500" hidden="true"/>
+<property name="resizable" defaultValue="true" hidden="true"/>
+<property name="centering" defaultValue="" hidden="true"/>
+<property name="scaling" defaultValue="both" hidden="true"/>
+<property name="html-page" defaultValue="BLUEHEX-ANIMATION.html" hidden="true"/>
+</properties>
+
+</widget>
